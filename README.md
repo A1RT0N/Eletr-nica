@@ -21,6 +21,22 @@ Esse projeto da disciplina de Eletrônica da Universidade de São Paulo, com o a
 ## Contas
 _terminar_
 
+## Tabela componentes eletrônicos
+
+| Quantidade  | Componente | Especificações  | Valor em reais |
+| ------------- | ------------- | ------------- | ------------- |
+| 1  | Tranformador  | Cinserir  | Utilizado de Simões  |
+| 1 | Capacidor  | inserir | inserir  |
+| 1  | Potenciômetro  | inserir | Cinserir  |
+| inserir  | Resistores | inserir  | inserir  |
+| 1  | Diodo Zenner | inserir  | inserir  |
+| 1 | Fusível de  | inserir  | inserir  |
+| 1 | LED | inserir  | inserir  |
+| 1 | Transistor | inserir  | inserir  |
+|  |  |  | Total:   |
+
+
+
 ##
 Circuito de um transformador com ponte de diodo: https://tinyurl.com/2ekzdp88
 
