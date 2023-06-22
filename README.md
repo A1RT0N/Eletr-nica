@@ -25,12 +25,12 @@ _terminar_
 
 | Quantidade  | Componente | Especificações  | Valor em reais |
 | ------------- | ------------- | ------------- | ------------- |
-| 1  | Tranformador  | Cinserir  | Utilizado de Simões  |
-| 1 | Capacidor  | inserir | inserir  |
-| 1  | Potenciômetro  | inserir | Cinserir  |
+| 1  | Tranformador  | inserir | Utilizado de Simões  |
+| 1 | Capacidor | inserir | inserir  |
+| 1  | Potenciômetro | inserir | inserir  |
 | inserir  | Resistores | inserir  | inserir  |
 | 1  | Diodo Zenner | inserir  | inserir  |
-| 1 | Fusível de  | inserir  | inserir  |
+| 1 | Fusível de pico | inserir  | inserir  |
 | 1 | LED | inserir  | inserir  |
 | 1 | Transistor | inserir  | inserir  |
 |  |  |  | Total:   |
