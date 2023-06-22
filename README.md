@@ -32,9 +32,8 @@ _terminar_
 | 1  | Diodo Zenner | inserir  | inserir  |
 | 1 | Fusível de pico | inserir  | inserir  |
 | 1 | LED | inserir  | inserir  |
-| 1 | Transistor | inserir  | inserir  |
+| 1 | Transistor | inserir  | inserir |
 | 1 | Ponte de diodo | inserir  | inserir  |
-
 |  |  |  | Total:   |
 
 
