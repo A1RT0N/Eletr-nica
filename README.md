@@ -41,8 +41,7 @@ _terminar_
 _inserir parte do Zuco_
 
 
-
-##
+## Falstad
 Circuito de um transformador com ponte de diodo: https://tinyurl.com/2ekzdp88
 
 ![alt text](https://raw.githubusercontent.com/A1RT0N/Eletr-nica/main/2023-06-21_22-24.png)
