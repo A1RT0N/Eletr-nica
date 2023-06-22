@@ -20,7 +20,7 @@ Esse projeto da disciplina de Eletrônica da Universidade de São Paulo, com o a
 ##
 Circuito de um transformador com ponte de diodo: https://tinyurl.com/2ekzdp88
 
-![alt text](https://raw.githubusercontent.com/A1RT0N/Eletr-nica/main/2023-06-07_16-04.png)
+![alt text](https://raw.githubusercontent.com/A1RT0N/Eletr-nica/main/2023-06-21_22-24.png)
 
 ## Integrantes:
 * Bruno Kazuya Yamato Sakji
