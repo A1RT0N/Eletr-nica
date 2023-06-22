@@ -15,7 +15,11 @@ Esse projeto da disciplina de Eletrônica da Universidade de São Paulo, com o a
 * Potenciômetro: varia a resistência de acordo com o usuário da fonte
 
 * Transistor: Utilizado para limitar a passagem da corrente
+ ## Funcionamente 
+ _inserir parte do douglas_
 
+## Contas
+_terminar_
 
 ##
 Circuito de um transformador com ponte de diodo: https://tinyurl.com/2ekzdp88
