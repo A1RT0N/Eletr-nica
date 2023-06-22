@@ -1,5 +1,5 @@
 # Eletronica - USP
-Esse projeto da disciplina de Eletrônica da Universidade de São Paulo, com o apoio do professor Eduardo do Valle Simões, foi desenvolvido com o objetivo de construir uma fonte de tensão ajustável que funciona com uma corrente contínua de 100mA.
+Esse projeto da disciplina de Eletrônica da Universidade de São Paulo, com o apoio do professor Eduardo do Valle Simões  na disciplina SSC0180, foi desenvolvido com o objetivo de construir uma fonte de tensão ajustável que funciona com uma corrente contínua de 100mA.
 
 ## Componentes da fonte de tensão
 * Transformador: Transforma a alta tensão da tomada em uma tensão mais baixa a ser utilizada na fonte de tensão. Em compensação, a corrente aumenta de modo inversamente proporcional à tensão
@@ -35,6 +35,10 @@ _terminar_
 | 1 | Transistor | inserir  | inserir |
 | 1 | Ponte de diodo | inserir  | inserir  |
 |  |  |  | Total:   |
+
+## Cicuito no Eagle
+
+_inserir parte do Zuco_
 
 
 
