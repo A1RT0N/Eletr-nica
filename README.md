@@ -52,3 +52,6 @@ Circuito de um transformador com ponte de diodo: https://tinyurl.com/2ekzdp88
 * Henrique Vilela Zucoloto
 * Ayrton da Costa Ganem Filho
 
+## Créditos
+Queremos agradacer ao nosso grande mestre: Eduardo do Valle Simões
+
