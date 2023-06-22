@@ -10,7 +10,7 @@ Esse projeto da disciplina de Eletrônica da Universidade de São Paulo, com o a
 
 * Diodo Zener: Conduz corrente somente quando a tensão estiver acima da maior estipulada
 
-* Resistore: Reduzem o potencial elétrico
+* Resistor: Reduzem o potencial elétrico
 
 * Potenciômetro: varia a resistência de acordo com o usuário da fonte
 
