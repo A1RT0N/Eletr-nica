@@ -44,7 +44,7 @@ _inserir parte do Zuco_
 ## Falstad
 Circuito de um transformador com ponte de diodo: https://tinyurl.com/2g7hx9yo
 
-![alt text](https://raw.githubusercontent.com/A1RT0N/Eletr-nica/main/2023-06-21_22-24.png)
+![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/2023-06-24_20-12.png?raw=true)
 
 ## Integrantes:
 * Bruno Kazuya Yamato Sakji
