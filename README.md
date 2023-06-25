@@ -45,15 +45,15 @@ _terminar_
 |  |  |  | Total: R$ 57,32 |
 
 
-## Cicuito no Eagle
-
-_inserir parte do Zuco_
-
-
 ## Falstad
 Circuito de um transformador com ponte de diodo: https://tinyurl.com/2g7hx9yo
 
 ![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/2023-06-24_20-12.png?raw=true)
+
+## Cicuito no Eagle
+
+_inserir parte do Zuco_
+
 
 ## Resultado
 _inserir vídeo/foto do resultado com a protoboard_
