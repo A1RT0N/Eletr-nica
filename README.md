@@ -30,9 +30,9 @@ _terminar_
 | Quantidade  | Componente | Especificações  | Valor em reais |
 | ------------- | ------------- | ------------- | ------------- |
 | 1  | Tranformador  | 12V | Utilizado de Simões  |
-| 1 | Capacidor | veio errado - trocar pra 1000mF | 0,49  |
-| 1  | Potenciômetro | 10k oms linear | 6,79  |
-| 3  | Resistores | 4.7k oms  | 0,21  |
+| 1 | Capacidor | 1000mF | 0,49  |
+| 1  | Potenciômetro | 10k Ω linear | 6,79  |
+| 3  | Resistores | 4.7k Ω  | 0,21  |
 | 1  | Diodo Zenner | 1N5243 13V/0,5W  | 0,60  |
 | 1 | Fusível de pico | 0,5A  | 1,07  |
 | 1 | LED | 5mm  | 0,49  |
