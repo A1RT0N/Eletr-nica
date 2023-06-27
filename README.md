@@ -19,7 +19,22 @@ Esse projeto da disciplina de Eletrônica da Universidade de São Paulo, com o a
 
  ## Funcionamento 
  
- _inserir parte do douglas_
+*Transformação:
+
+Na transformação, os sinais elétricos da entrada, que possuem uma corrente alternada com uma tensão de 127V e uma frequência de 60Hz, são modificados pelo transformador, de modo que a tensão seja diminuída para aproximadamente 12V. No entanto, as outras características da onda permanecem inalteradas.
+
+*Retificação:
+
+Na retificação, os sinais elétricos da corrente alternada são convertidos em um sinal sempre positivo por meio de uma ponte de diodos. Essa conversão resulta na eliminação dos valores negativos de tensão. Graficamente, a retificação faz uma reflexão dos termos negativos da DDP em relação à abscissa.
+
+*Filtragem:
+
+Na filtragem, os sinais elétricos são convertidos em valores aproximadamente contínuos por meio de um capacitor. Esse capacitor é carregado brevemente durante os períodos de voltagem máxima e libera corrente nos momentos em que a voltagem de entrada diminui. Dessa forma, é criada uma simulação de uma saída de tensão contínua, embora apresente algumas imperfeições conhecidas como "ripple".
+
+*Estabilização:
+
+Na estabilização, os sinais elétricos previamente processados são submetidos a uma ação complementar entre o diodo Zener e o transistor, visando uma maior estabilização e linearização. Isso garante que a saída do sistema forneça uma tensão constante e fixa, mesmo diante de possíveis imperfeições das etapas anteriores ou interferências de ruídos causados por flutuações de corrente e temperatura. Por fim, é possível ajustar o valor de saída utilizando um potenciômetro, dentro da faixa de 3V a 12V especificada.
+
 
 ## Contas
 
