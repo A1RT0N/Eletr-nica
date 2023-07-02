@@ -68,6 +68,8 @@ Circuito de um transformador com ponte de diodo: https://tinyurl.com/2g7hx9yo
 ## Cicuito no Eagle
 ![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/2023-07-02_17-15.png?raw=true)
 
+## Fotos circuito montado
+
 
 ## Integrantes:
 * Bruno Kazuya Yamato Sakji
