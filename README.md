@@ -38,7 +38,35 @@ Na estabilização, os sinais elétricos previamente processados são submetidos
 
 ## Contas
 
-_terminar KAZUZA_
+Vpico da fonte≃180V
+Razão do transformador = 7.3
+
+Vi = 180/7,3
+Vi = 24,65
+
+Fórmula do Ripple 
+Ripple = Vs/(2 x f x C x R)
+
+Ripple = 0,1Vs
+
+0,1Vs = Vs/(2 x f x C x R)
+
+0,1Vs/Vs = 2 x f x C x R
+
+10 = 2 x f x C x R
+C = 10/(2 x f x R)
+
+f = 60hz
+R = V/I
+V ≃ 23V
+I ≃ 105 x 10^-3
+(valores coletados a partir do circuito do falstad)
+
+R = 23/105 x 10^-3
+R = 219Ω
+
+C = 10/(2x60x219)
+C = 380x10^(⁻6)F
 
 ## Tabela componentes eletrônicos
 
