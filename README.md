@@ -94,9 +94,10 @@ Circuito de um transformador com ponte de diodo: https://tinyurl.com/2g7hx9yo
 ![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/2023-06-24_20-12.png?raw=true)
 
 ## Cicuito no Eagle
+
 ![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/2023-07-02_17-15.png?raw=true)
 
-![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/WhatsApp Image 2023-07-02 at 21.46.13.jpeg?raw=true)
+![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/WhatsApp%20Image%202023-07-02%20at%2021.46.13.jpeg?raw=true)
 
 
 ## Fotos e vídeos do circuito montado
