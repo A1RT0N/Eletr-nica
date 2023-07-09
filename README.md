@@ -96,12 +96,16 @@ Circuito de um transformador com ponte de diodo: https://tinyurl.com/2aou2bgd
 
 ## Cicuito no Eagle
 
-![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/2023-07-02_17-15.png?raw=true) MUDAR - ZUCO - RESISTENCIAS PASSARAM PRA 2.2K E 1K
+![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/2023-07-02_17-15.png?raw=true) 
+MUDAR - ZUCO - RESISTENCIAS PASSARAM PRA 2.2K E 1K
 
-![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/WhatsApp%20Image%202023-07-02%20at%2021.46.13.jpeg?raw=true) MUDAR
+![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/WhatsApp%20Image%202023-07-02%20at%2021.46.13.jpeg?raw=true) 
+MUDAR
 
 
 ## Fotos e vídeos do circuito montado
+
+![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/IMG_20230704_160159.jpg?raw=true) 
 
 Vídeo no Youtube: https://youtu.be/5LzaHWlds8U
 
