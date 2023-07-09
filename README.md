@@ -39,34 +39,35 @@ Na estabilização, os sinais elétricos previamente processados são submetidos
 ## Contas
 
 Vpico da fonte≃180V
-Razão do transformador = 7.3
+Razão do transformador=7.3
 
-Vi = 180/7,3
-Vi = 24,65
+Vi=180/7,3
+Vi=24,65
+Vi-Vdiodo≃23
 
-Fórmula do Ripple 
-Ripple = Vs/(2 x f x C x R)
+Fórmula do Ripple
+Ripple=Vs/(2 x f x C x R)
 
-Ripple = 0,1Vs
+Ripple=0,1Vs
 
-0,1Vs = Vs/(2 x f x C x R)
+0,1Vs=Vs/(2 x f x C x R)
 
-0,1Vs/Vs = 2 x f x C x R
+0,1Vs/Vs=2 x f x C x R
 
-10 = 2 x f x C x R
-C = 10/(2 x f x R)
+10=2 x f x C x R
+C=10/(2 x f x R)
 
-f = 60hz
-R = V/I
-V ≃ 23V
-I ≃ 105 x 10^-3
+f=60hz
+R=V/I
+V≃23V
+I≃115 x 10^-3
 (valores coletados a partir do circuito do falstad)
 
-R = 23/105 x 10^-3
-R = 219Ω
+R=23/(115 x 10^-3)
+R=200ohms
 
-C = 10/(2x60x219)
-C = 380x10^(⁻6)F
+C=10/(2x60x200)
+C≃416x10⁻6F
 
 ## Tabela componentes eletrônicos
 
