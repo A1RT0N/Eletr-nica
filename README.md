@@ -103,6 +103,8 @@ Circuito de um transformador com ponte de diodo: https://tinyurl.com/2aou2bgd
 
 ## Fotos e vídeos do circuito montado
 
+Vídeo no Youtube: https://youtu.be/5LzaHWlds8U
+
 
 ## Integrantes:
 * Bruno Kazuya Yamato Sakji
