@@ -92,7 +92,7 @@ C≃416x10⁻6F
 ## Falstad
 Circuito de um transformador com ponte de diodo: https://tinyurl.com/235bu6ro
 
-![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/2023-07-04_15-57.png?raw=true)
+![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/Captura%20de%20tela%202023-07-10%20112049.png?raw=true)
 
 
 ## Cicuito no Eagle
