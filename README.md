@@ -114,6 +114,7 @@ Vídeo no Youtube: https://youtu.be/5LzaHWlds8U
 * Douglas da Fontoura Pereyra
 * Henrique Vilela Zucoloto
 * Ayrton da Costa Ganem Filho
+* Tiago Chaves Bezerra Rocha
 
 ## Créditos
 Queremos agradacer ao nosso grande mestre: Eduardo do Valle Simões
