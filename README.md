@@ -90,7 +90,7 @@ C≃416x10⁻6F
 
 
 ## Falstad
-Circuito de um transformador com ponte de diodo: https://tinyurl.com/2aou2bgd
+Circuito de um transformador com ponte de diodo: https://tinyurl.com/235bu6ro
 
 ![alt text](https://github.com/A1RT0N/Eletr-nica/blob/main/2023-07-04_15-57.png?raw=true)
 
